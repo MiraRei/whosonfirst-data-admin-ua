@@ -45,12 +45,13 @@
     "wof:belongsto":[
         102191581,
         85633805,
-        85688783,
-        1108815611
+        1108815611,
+        85688783
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":701447
+        "gn:id":701447,
+        "wd:id":"Q4287411"
     },
     "wof:country":"UA",
     "wof:geomhash":"f25023a3afa14d19c4f3d45de96f3ec2",
@@ -64,8 +65,8 @@
         }
     ],
     "wof:id":1326886375,
-    "wof:lastmodified":1566591102,
-    "wof:name":"Medvedka",
+    "wof:lastmodified":1748987778,
+    "wof:name":"Medvidka",
     "wof:parent_id":1108815611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ua",
